@@ -17,3 +17,4 @@ Key Issues:
 - Private attributes can't be accessed directly from `main()`. You should use a constructor or setters.
 - The variable names `year1` and `year2` could be renamed to `currentYear` and `startYear` for clarity.
 
+![Screen Shot 2024-09-21 at 22 47 34](https://github.com/user-attachments/assets/931906fb-7302-44c4-b540-30067b69bcfb)
